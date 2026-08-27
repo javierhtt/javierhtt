@@ -1,17 +1,13 @@
 <div align="center">
 
-  <p>
-    <a href="#readme">🇪🇸 Español</a> | <b>🇬🇧 English</b>
-  </p>
-
-<img src="./assets/avatar.png" alt="Avatar" width="130" style="border-radius: 50%;" />
+<img src="./assets/avatar_GitHub.jpg" alt="Avatar" width="200" style="border-radius: 50%;" />
 
   <h1>¡Hola! Soy Javier Hernández 👋</h1>
 
   <h3>Data Science & Data Engineer </h3>
 
   <p>
-    <a href="https://linkedin.com/in/javier-hernandez" target="_blank">
+    <a href="https://www.linkedin.com/in/javier-hernandez-tercero/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/javierhtt" target="_blank">
@@ -71,10 +67,10 @@
 
 ## 🚀 Proyectos Destacados
 
-* **[RedditNLP Pipeline](#)** — Pipeline de ingesta masiva no estructurada, análisis de sentimiento con Transformers y moderación mediante LLMs.
-* **[AquaSenseCloud](#)** — Arquitectura AWS para ingesta y transformación de datos medioambientales con API REST en Docker.
-* **[Moneyball](#)** — Análisis de rendimiento deportivo en R usando técnicas estadísticas avanzadas (PCA, clustering, LDA).
-* **[AWS DeepRacer](#)** — Modelos de aprendizaje por refuerzo para conducción autónoma.
+* **[RedditNLP Pipeline](https://github.com/javierhtt/RedditNLP_Pipeline)** — Pipeline de ingesta masiva no estructurada, análisis de sentimiento con Transformers y moderación mediante LLMs.
+* **[AquaSenseCloud](https://github.com/javierhtt/Aqua_Sense_Cloud)** — Arquitectura AWS para ingesta y transformación de datos medioambientales con API REST en Docker.
+* **[Moneyball](https://github.com/javierhtt/moneyball-analisis_multivariante)** — Análisis de rendimiento deportivo en R usando técnicas estadísticas avanzadas (PCA, clustering, LDA).
+* **AWS DeepRacer** — Modelos de aprendizaje por refuerzo para conducción autónoma.
 
 ---
 
